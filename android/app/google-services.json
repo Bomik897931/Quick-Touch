@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298379951736",
+    "project_id": "quicktouch-f35df",
+    "storage_bucket": "quicktouch-f35df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298379951736:android:17ac5e113213628cf3b78d",
+        "android_client_info": {
+          "package_name": "com.example.quicktouch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi2ssZThIdWEbn8HUuLFbwd0_dHIpKiTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
